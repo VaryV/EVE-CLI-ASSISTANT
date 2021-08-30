@@ -12,8 +12,8 @@ setup(
     name="eve",
     version="0.1",
     author="Varun Suresh",
-    description="EVE is a cli tool targetted to speed up a programmers life.",
-    long_description="This is EVE, a command line based tool to help automate some processes and speeden up things",
+    description="EVE is a cli tool.",
+    long_description="This is EVE, a command line based tool to help automate some processes and speeden up things.",
     keywords=[
         "eve",
         "cli tool",
