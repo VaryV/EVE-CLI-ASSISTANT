@@ -14,6 +14,7 @@ setup(
     author="Varun Suresh",
     description="EVE is a cli tool.",
     long_description="This is EVE, a command line based tool to help automate some processes and speeden up things.",
+    url="https://github.com/VaryV/EVE-CLI-ASSISTANT",
     keywords=[
         "eve",
         "cli tool",
