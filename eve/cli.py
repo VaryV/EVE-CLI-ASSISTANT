@@ -33,5 +33,5 @@ class ComplexCLI(click.MultiCommand):
 
 @click.command(cls=ComplexCLI)
 def cli():
-    """Hey Varry! I am Eve, your command line assistant!"""
+    """Hey! I am Eve, your command line assistant!"""
     pass
