@@ -9,7 +9,7 @@ def read_requirements():
 
 
 setup(
-    name="eve",
+    name="EVE-CLI-ASSISTANT",
     version="0.1",
     author="Varun Suresh",
     description="EVE is a cli tool.",
